@@ -2,7 +2,7 @@ import telnetlib
 import time
 import json
 
-#in this varieble we have our servers info(ip and ports)
+#our servers
 payload = '[{"ip":"10.200.110.10", "port": "1101"},\
             {"ip":"10.200.110.10", "port": "1101"},\
             {"ip":"10.200.110.10", "port": "1101"},\
